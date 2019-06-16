@@ -12,7 +12,7 @@
     tools:context="recognizeyou.gcuenca.helloworld.MainActivity">
 
     <TextView
-        android:text="Hello From Grace!"
+        android:text="Hello from Grace!"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="143dp"
